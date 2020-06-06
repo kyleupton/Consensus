@@ -1,0 +1,1 @@
+A Python Library to create consensus sequences from orthologous sequences. Designed to create consensus sequences from orthologous transposon sequences in the human genome. Should work with all genomes, so let me know if you find any wierd behaviour.
